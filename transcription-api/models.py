@@ -37,6 +37,7 @@ class Languages(str, Enum):
     nl = "nl"
     pl = "pl"
     pt = "pt"
+    ro = "ro"
     ru = "ru"
     sk = "sk"
     sl = "sl"
